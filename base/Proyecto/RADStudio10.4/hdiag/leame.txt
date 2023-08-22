@@ -1,0 +1,21 @@
+Aplicación hdiag.exe para Windows 32/64 bits.
+Estudio de herramientas para el diagnóstico de conectividad en ambientes 
+de redes de computadoras.
+Enseñar, mediante hdiag, a usar y conocer los comandos ping, ipconfig y netstat.
+
+Instalación:
+Coloque todos los archivos en una carpeta/directorio.
+Los archivos son:
+ hdiag.exe	--> la aplicación principal
+ rtl270.bpl	--> biblioteca de clases de Embarcadero C++ Builder.
+ vcl270.bpl	--> biblioteca de clases de Embarcadero C++ Builder.
+ vclimg270.bpl	--> biblioteca de clases de Embarcadero C++ Builder.
+ borlndmm.dll	--> biblioteca de clases de Embarcadero C++ Builder.
+ cc32c270mt.dll	--> biblioteca de clases de Embarcadero C++ Builder.
+ leame.txt		--> este archivo de texto!
+
+Licencia GNU/GPL v3, español:
+Lea la licencia en el siguiente enlace.
+https://lslspanish.github.io/translation_GPLv3_to_spanish/
+_____________________________________________________________
+Copyright (c)2023 Octulio Biletán. All Rights Reserved.
