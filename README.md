@@ -4,6 +4,7 @@
 <u>Aplicación <b>hdiag</b> para Windows</u><br>
 Estudio de herramientas para el diagnóstico de conectividad en ambientes de redes de computadoras.<br>
 Construída mediante el lenguaje de programación C++.<br>
+Código fuente en: base/depósito/Proyecto/RADStudio10.4/hdiag<br>
 Eugenio Martínez * Agosto de 2023.<br>
 Actualizado en Enero de 2025.<br>
 <p>***</p>
