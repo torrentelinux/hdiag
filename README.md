@@ -10,4 +10,4 @@ Lectura de la licencia GNU/GPL v3 en español<br>
 Hacer clic <a href="https://lslspanish.github.io/translation_GPLv3_to_spanish/" target="_blank">aquí</a>.<br>
 
 ______________________________________________________________________<br>
-Copyright(c) 2023 Eugenio Martínez. Todos los derechos reservados.<br>
+Copyright(c) 2023-2025 Eugenio Martínez. Todos los derechos reservados.<br>
